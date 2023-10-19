@@ -1,0 +1,38 @@
+/* Profile.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #eadede;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(60, 6, 6, 0.2);
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #381010;
+  }
+  
+  img {
+    max-width: 200px; /* Adjust the maximum width as needed */
+    max-height: 200px; /* Adjust the maximum height as needed */
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #dc6b24;
+  }
